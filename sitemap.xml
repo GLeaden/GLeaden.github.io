@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/useful-links/learn-through-doing/</loc>
+    <lastmod>2018-11-01T12:36:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/introduction/</loc>
+    <lastmod>2018-11-01T12:09:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/useful-links/</loc>
+    <lastmod>2018-11-01T12:32:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/useful-links/respected-professionals/</loc>
+    <lastmod>2018-11-01T12:36:41-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2018-11-01T12:36:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
