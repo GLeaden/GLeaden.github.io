@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Reverse Engineering for Marist College</title>
-    <link>https://www.gleaden.github.io/introduction/</link>
+    <link>https://GLeaden.github.io/introduction/</link>
     <description>Recent content in Introduction on Reverse Engineering for Marist College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 12:09:42 -0400</lastBuildDate>
     
-	<atom:link href="https://www.gleaden.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://GLeaden.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

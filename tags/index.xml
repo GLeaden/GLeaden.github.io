@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Reverse Engineering for Marist College</title>
-    <link>https://www.gleaden.github.io/tags/</link>
+    <link>https://GLeaden.github.io/tags/</link>
     <description>Recent content in Tags on Reverse Engineering for Marist College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.gleaden.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://GLeaden.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

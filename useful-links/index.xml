@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Useful Links on Reverse Engineering for Marist College</title>
-    <link>https://www.gleaden.github.io/useful-links/</link>
+    <link>https://GLeaden.github.io/useful-links/</link>
     <description>Recent content in Useful Links on Reverse Engineering for Marist College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 12:32:18 -0400</lastBuildDate>
     
-	<atom:link href="https://www.gleaden.github.io/useful-links/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://GLeaden.github.io/useful-links/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learn Through Doing</title>
-      <link>https://www.gleaden.github.io/useful-links/learn-through-doing/</link>
+      <link>https://GLeaden.github.io/useful-links/learn-through-doing/</link>
       <pubDate>Thu, 01 Nov 2018 12:36:32 -0400</pubDate>
       
-      <guid>https://www.gleaden.github.io/useful-links/learn-through-doing/</guid>
+      <guid>https://GLeaden.github.io/useful-links/learn-through-doing/</guid>
       <description>CTF Competitions  test test2 test3  Binary Exploitation Please be very careful as to where you are performing such exploits. These are carefully curated sites that allow these exploits only to be performed on the challenges provided. Do not use this knowledge for evil, and only use it as directed on each site.
 ** YOU CAN END UP IN PRISON IF YOU DO NOT FOLLOW THESE INSTRUCTIONS **</description>
     </item>
     
     <item>
       <title>Respected Professionals</title>
-      <link>https://www.gleaden.github.io/useful-links/respected-professionals/</link>
+      <link>https://GLeaden.github.io/useful-links/respected-professionals/</link>
       <pubDate>Thu, 01 Nov 2018 12:36:41 -0400</pubDate>
       
-      <guid>https://www.gleaden.github.io/useful-links/respected-professionals/</guid>
+      <guid>https://GLeaden.github.io/useful-links/respected-professionals/</guid>
       <description>Adam Doupé - Assistant Professor, Arizona State University</description>
     </item>
     
