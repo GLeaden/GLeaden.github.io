@@ -2,32 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Useful Links on Reverse Engineering for Marist College</title>
-    <link>https://GLeaden.github.io/useful-links/</link>
+    <link>/useful-links/</link>
     <description>Recent content in Useful Links on Reverse Engineering for Marist College</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 12:32:18 -0400</lastBuildDate>
     
-	<atom:link href="https://GLeaden.github.io/useful-links/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/useful-links/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Resources</title>
+      <link>/useful-links/resources/</link>
+      <pubDate>Tue, 06 Nov 2018 18:55:31 -0500</pubDate>
+      
+      <guid>/useful-links/resources/</guid>
+      <description> Websites  RE subreddit Formal Program Analysis Reading Veteransec  Cybersecurity Community | Blog Posts and Other Writeups Buffer Overflow Tutorials   Tools  Online Dissasembler IDA Freeware  Old version of commerical-grade reverse engineering software. Learn More   </description>
+    </item>
+    
+    <item>
       <title>Learn Through Doing</title>
-      <link>https://GLeaden.github.io/useful-links/learn-through-doing/</link>
+      <link>/useful-links/learn-through-doing/</link>
       <pubDate>Thu, 01 Nov 2018 12:36:32 -0400</pubDate>
       
-      <guid>https://GLeaden.github.io/useful-links/learn-through-doing/</guid>
+      <guid>/useful-links/learn-through-doing/</guid>
       <description>CTF Competitions  test test2 test3  Binary Exploitation Please be very careful as to where you are performing such exploits. These are carefully curated sites that allow these exploits only to be performed on the challenges provided. Do not use this knowledge for evil, and only use it as directed on each site.
 ** YOU CAN END UP IN PRISON IF YOU DO NOT FOLLOW THESE INSTRUCTIONS **</description>
     </item>
     
     <item>
       <title>Respected Professionals</title>
-      <link>https://GLeaden.github.io/useful-links/respected-professionals/</link>
+      <link>/useful-links/respected-professionals/</link>
       <pubDate>Thu, 01 Nov 2018 12:36:41 -0400</pubDate>
       
-      <guid>https://GLeaden.github.io/useful-links/respected-professionals/</guid>
-      <description>Adam Doupé - Assistant Professor, Arizona State University</description>
+      <guid>/useful-links/respected-professionals/</guid>
+      <description>Twitter  C-Level  Mark Rogers  Head of Security Operations at DEFCON VP Cybersecurity Strategy for Okta  Geoff Belknap  CSO of Slack  Michael Coates  Head of security at Mozilla Former CISO of Twitter   Journalism  Eric Geller  Cybersecurity reporter at @politico  Zack Whittaker  Security editor, @TechCrunch   Named  Amit Serper  Head of security research @cybereason Nocturnus  Matt Blaze  &amp;ldquo;Scientist, safecracker, professor, writer.</description>
     </item>
     
   </channel>

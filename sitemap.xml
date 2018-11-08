@@ -3,38 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://GLeaden.github.io/useful-links/learn-through-doing/</loc>
+    <loc>/useful-links/resources/</loc>
+    <lastmod>2018-11-06T18:55:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/useful-links/learn-through-doing/</loc>
     <lastmod>2018-11-01T12:36:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GLeaden.github.io/introduction/</loc>
+    <loc>/introduction/</loc>
     <lastmod>2018-11-01T12:09:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GLeaden.github.io/useful-links/</loc>
+    <loc>/useful-links/</loc>
     <lastmod>2018-11-01T12:32:18-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GLeaden.github.io/useful-links/respected-professionals/</loc>
+    <loc>/useful-links/respected-professionals/</loc>
     <lastmod>2018-11-01T12:36:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://GLeaden.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://GLeaden.github.io/</loc>
-    <lastmod>2018-11-01T12:36:32-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-11-06T18:55:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://GLeaden.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
