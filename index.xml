@@ -17,7 +17,7 @@
       <pubDate>Tue, 06 Nov 2018 18:55:31 -0500</pubDate>
       
       <guid>/useful-links/resources/</guid>
-      <description> Websites  RE subreddit Formal Program Analysis Reading Veteransec  Cybersecurity Community | Blog Posts and Other Writeups Buffer Overflow Tutorials   Tools  Online Dissasembler IDA Freeware  Old version of commerical-grade reverse engineering software. Learn More   </description>
+      <description> Websites  RE subreddit Formal Program Analysis Reading Veteransec  Cybersecurity Community | Blog Posts and Other Writeups Buffer Overflow Tutorials  HackerNews  </description>
     </item>
     
     <item>
@@ -26,8 +26,7 @@
       <pubDate>Thu, 01 Nov 2018 12:36:32 -0400</pubDate>
       
       <guid>/useful-links/learn-through-doing/</guid>
-      <description>CTF Competitions  test test2 test3  Binary Exploitation Please be very careful as to where you are performing such exploits. These are carefully curated sites that allow these exploits only to be performed on the challenges provided. Do not use this knowledge for evil, and only use it as directed on each site.
-** YOU CAN END UP IN PRISON IF YOU DO NOT FOLLOW THESE INSTRUCTIONS **</description>
+      <description>Tools  IDA Freeware - Old version of commerical-grade dissassembler and debugger.  Learn More  Radare2 - Powerful dissassembler and debugger. CLI only, has some GUI extensions though. Online Compiler - Tool used in class to quickly demonstrate various compilations of C and C++ code. NSA Reversing Tool (GHIDRA) - Announcement of new government used tool for reversing.  More Info - Reddit thread discussing this announcement.  Free Online Dissassembler  Binary Exploitation Please be very careful as to where you are performing such exploits.</description>
     </item>
     
     <item>
